@@ -27,7 +27,7 @@ spec:
       automountServiceAccountToken: false
       restartPolicy: Always
       containers:
-      - image: 804480554088.dkr.ecr.ap-south-1.amazonaws.com/sstest
+      - image: 474668389366.dkr.ecr.ap-south-1.amazonaws.com/sstest
         name: ss
         imagePullPolicy: Always
         env:
